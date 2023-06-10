@@ -1,0 +1,82 @@
+js api calling techonology
+-----------------------------
+fetch is a method from AJAX
+
+
+AJAX----
+--------
+1-fetch
+2-xmlHttps
+3-async await  ----we can dirctily store in a variable
+
+
+
+useEffect-hook used to call functions at the starting of components 
+
+
+
+
+
+
+Redierction in react
+---------------------
+react-rouer-dom--library used for Redierction
+
+BrowserRouter  appying in root comoponet selector
+Route           -for path setting 
+Routes          onnil kooduthal path sett cheyyundudegill
+
+
+
+
+Params
+-------
+
+useParams-hook used to access params 
+
+
+REDUX   is a state manegement techonology
+===========
+props drilling===-coupling kkodumbol props drilling sambavikka(data will stuck in any intermediate componnent when the concept have any issue )
+
+---props drilling occurse during coupling (many connection between parent and child)
+-----to aviod props driliing we need to reduse coupling and make all component indipendent 
+
+---so react indroduced a state management techonology  that is REDUX
+
+
+
+
+
+
+store- is a js file ----storil ninnum nn comoponetnn avshyamaya data s edukkunnath storenn data update cheyyan pattillaaa appo Action and Reducer ee rand files use cheyyanam 
+----Action filel logic indavum ath componentnn dispatch chryyam logic upadate cheytha data(payolad)Reducerilekk ayakkunnuu
+Reducer--updated data Reduceril store aavunnuu ath Store filelilekk ayakkunnuu appo ath componentnn access cheyyan pattum
+
+
+
+
+
+ -libraries
+ ========
+
+redux    
+react-redux    
+redux-thunk----used to crate middilware
+
+
+middilware---used to cycrones redux to asyncrones redux
+
+
+
+
+axios--is a liabrary
+
+---------------------------
+
+used to call api in react
+
+
+
+useselector ---hook used to access data from store 
+
